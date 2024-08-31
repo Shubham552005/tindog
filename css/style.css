@@ -50,6 +50,7 @@
   flex-direction: column;
   justify-content: space-around;
   align-items: center;
+  background-color: rgb(248, 249, 250)
 }
 
 @media (max-width: 800px){
